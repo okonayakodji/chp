@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 
 [dev-packages]
+pylint = "*"
+black = "*"
+pyright = "*"
 
 [requires]
 python_version = "3.12"
