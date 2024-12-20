@@ -1,2 +1,2 @@
 # chp
-Calculate hidden power
+Calculate [hidden power](https://github.com/okonayakodji/chp).
